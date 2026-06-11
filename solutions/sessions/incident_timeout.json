@@ -1,0 +1,6 @@
+{
+  "session_id": "incident-timeout-002",
+  "messages": [
+    {"role": "user", "content": "Toujours rien sur ma commande #2098, vous pouvez vérifier ?"}
+  ]
+}
